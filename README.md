@@ -1,2 +1,2 @@
-# GAUSS-warsztaty-1
-Wprowadzenie do uczenia płytkiego.
+# GAUSS-warsztaty
+1. Wprowadzenie do uczenia płytkiego.
